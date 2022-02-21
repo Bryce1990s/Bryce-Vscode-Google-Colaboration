@@ -1,0 +1,5 @@
+!pip install colabcode
+
+import colabcode as cc
+
+cc.ColabCode(port = 6578,  lab = True)
