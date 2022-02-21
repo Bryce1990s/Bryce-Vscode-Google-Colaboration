@@ -2,4 +2,4 @@
 
 How To Use
 - Open New Notebook
-- add this raw file on your notebook
+- add this "Vscode.ipnyb" raw file on your notebook
